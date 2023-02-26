@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=564b7942_002D57b9_002D486a_002Db8ba_002D45e6c1c98590/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from LuciansLusciousLasagnaTests.fs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;B68FBB59-41C1-EDD6-A2DC-7D8DAB1833C0/f:LuciansLusciousLasagnaTests.fs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=755713e4_002D6354_002D4d77_002D962d_002Df451cb0aefd2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from LuciansLusciousLasagnaTests.fs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;B68FBB59-41C1-EDD6-A2DC-7D8DAB1833C0/f:LuciansLusciousLasagnaTests.fs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
