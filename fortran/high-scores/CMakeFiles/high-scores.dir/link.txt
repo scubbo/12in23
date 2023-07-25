@@ -1,0 +1,1 @@
+/usr/local/bin/gfortran -std=f2008 -W -Wall -Wextra -pedantic -fbacktrace -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 "CMakeFiles/high-scores.dir/high_scores.f90.o" "CMakeFiles/high-scores.dir/high_scores_test.f90.o" -o high-scores  testlib/libTesterMain.a 
