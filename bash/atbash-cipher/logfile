@@ -1,0 +1,1299 @@
+Starting
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 0
+Operating on 0
+Starting
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 0
+Operating on 0
+Starting
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 0
+Operating on 0
+Starting
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 0
+Operating on 0
+Starting
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading d
+Calling encrypt_char for d
+Idx is 3
+Encrypted Index is 22
+Encrypted letter is w
+Reading b
+Calling encrypt_char for b
+Idx is 1
+Encrypted Index is 24
+Encrypted letter is y
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading w
+Calling encrypt_char for w
+Idx is 22
+Encrypted Index is 3
+Encrypted letter is d
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 2
+Operating on 0
+Operating on 1
+Operating on 2
+Starting
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading ,
+Calling encrypt_char for ,
+Idx is -1
+Reading 1
+Calling encrypt_char for 1
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading 2
+Calling encrypt_char for 2
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading 3
+Calling encrypt_char for 3
+Idx is -1
+Reading ,
+Calling encrypt_char for ,
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading .
+Calling encrypt_char for .
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 3
+Operating on 0
+Operating on 1
+Operating on 2
+Operating on 3
+Starting
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading f
+Calling encrypt_char for f
+Idx is 5
+Encrypted Index is 20
+Encrypted letter is u
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading c
+Calling encrypt_char for c
+Idx is 2
+Encrypted Index is 23
+Encrypted letter is x
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading .
+Calling encrypt_char for .
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 2
+Operating on 0
+Operating on 1
+Operating on 2
+Starting
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading q
+Calling encrypt_char for q
+Idx is 16
+Encrypted Index is 9
+Encrypted letter is j
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading c
+Calling encrypt_char for c
+Idx is 2
+Encrypted Index is 23
+Encrypted letter is x
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading b
+Calling encrypt_char for b
+Idx is 1
+Encrypted Index is 24
+Encrypted letter is y
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading w
+Calling encrypt_char for w
+Idx is 22
+Encrypted Index is 3
+Encrypted letter is d
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading f
+Calling encrypt_char for f
+Idx is 5
+Encrypted Index is 20
+Encrypted letter is u
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading j
+Calling encrypt_char for j
+Idx is 9
+Encrypted Index is 16
+Encrypted letter is q
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading p
+Calling encrypt_char for p
+Idx is 15
+Encrypted Index is 10
+Encrypted letter is k
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading a
+Calling encrypt_char for a
+Idx is 0
+Encrypted Index is 25
+Encrypted letter is z
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading d
+Calling encrypt_char for d
+Idx is 3
+Encrypted Index is 22
+Encrypted letter is w
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading .
+Calling encrypt_char for .
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Encoding into chunks
+Num_chunks is 7
+Operating on 0
+Operating on 1
+Operating on 2
+Operating on 3
+Operating on 4
+Operating on 5
+Operating on 6
+Operating on 7
+Starting
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading c
+Calling encrypt_char for c
+Idx is 2
+Encrypted Index is 23
+Encrypted letter is x
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Starting
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Starting
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading 1
+Calling encrypt_char for 1
+Idx is -1
+Reading 2
+Calling encrypt_char for 2
+Idx is -1
+Reading 3
+Calling encrypt_char for 3
+Idx is -1
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Starting
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading j
+Calling encrypt_char for j
+Idx is 9
+Encrypted Index is 16
+Encrypted letter is q
+Reading f
+Calling encrypt_char for f
+Idx is 5
+Encrypted Index is 20
+Encrypted letter is u
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading p
+Calling encrypt_char for p
+Idx is 15
+Encrypted Index is 10
+Encrypted letter is k
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading d
+Calling encrypt_char for d
+Idx is 3
+Encrypted Index is 22
+Encrypted letter is w
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading c
+Calling encrypt_char for c
+Idx is 2
+Encrypted Index is 23
+Encrypted letter is x
+Reading q
+Calling encrypt_char for q
+Idx is 16
+Encrypted Index is 9
+Encrypted letter is j
+Reading f
+Calling encrypt_char for f
+Idx is 5
+Encrypted Index is 20
+Encrypted letter is u
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading e
+Calling encrypt_char for e
+Idx is 4
+Encrypted Index is 21
+Encrypted letter is v
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading s
+Calling encrypt_char for s
+Idx is 18
+Encrypted Index is 7
+Encrypted letter is h
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading a
+Calling encrypt_char for a
+Idx is 0
+Encrypted Index is 25
+Encrypted letter is z
+Reading b
+Calling encrypt_char for b
+Idx is 1
+Encrypted Index is 24
+Encrypted letter is y
+Reading w
+Calling encrypt_char for w
+Idx is 22
+Encrypted Index is 3
+Encrypted letter is d
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Starting
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading c
+Calling encrypt_char for c
+Idx is 2
+Encrypted Index is 23
+Encrypted letter is x
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading i
+Calling encrypt_char for i
+Idx is 8
+Encrypted Index is 17
+Encrypted letter is r
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading n
+Calling encrypt_char for n
+Idx is 13
+Encrypted Index is 12
+Encrypted letter is m
+Reading 
+Calling encrypt_char for 
+Idx is -1
+Starting
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading y
+Calling encrypt_char for y
+Idx is 24
+Encrypted Index is 1
+Encrypted letter is b
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading x
+Calling encrypt_char for x
+Idx is 23
+Encrypted Index is 2
+Encrypted letter is c
+Reading o
+Calling encrypt_char for o
+Idx is 14
+Encrypted Index is 11
+Encrypted letter is l
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading u
+Calling encrypt_char for u
+Idx is 20
+Encrypted Index is 5
+Encrypted letter is f
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading z
+Calling encrypt_char for z
+Idx is 25
+Encrypted Index is 0
+Encrypted letter is a
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading k
+Calling encrypt_char for k
+Idx is 10
+Encrypted Index is 15
+Encrypted letter is p
+Reading r
+Calling encrypt_char for r
+Idx is 17
+Encrypted Index is 8
+Encrypted letter is i
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading t
+Calling encrypt_char for t
+Idx is 19
+Encrypted Index is 6
+Encrypted letter is g
+Reading h
+Calling encrypt_char for h
+Idx is 7
+Encrypted Index is 18
+Encrypted letter is s
+Reading g
+Calling encrypt_char for g
+Idx is 6
+Encrypted Index is 19
+Encrypted letter is t
+Reading l
+Calling encrypt_char for l
+Idx is 11
+Encrypted Index is 14
+Encrypted letter is o
+Reading m
+Calling encrypt_char for m
+Idx is 12
+Encrypted Index is 13
+Encrypted letter is n
+Reading v
+Calling encrypt_char for v
+Idx is 21
+Encrypted Index is 4
+Encrypted letter is e
+Reading 
+Calling encrypt_char for 
+Idx is -1

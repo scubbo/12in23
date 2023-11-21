@@ -1,0 +1,187 @@
+inp is 9999999999999999999999999999999999999999
+Length is 40
+Checking the 0 index
+num is 9
+Added 9, now sum is 9
+Checking the 1 index
+num is 9
+Doubled num to 18 because 1 is odd
+Reducing 18 by 9
+Added 9, now sum is 18
+Checking the 2 index
+num is 9
+Added 9, now sum is 27
+Checking the 3 index
+num is 9
+Doubled num to 18 because 3 is odd
+Reducing 18 by 9
+Added 9, now sum is 36
+Checking the 4 index
+num is 9
+Added 9, now sum is 45
+Checking the 5 index
+num is 9
+Doubled num to 18 because 5 is odd
+Reducing 18 by 9
+Added 9, now sum is 54
+Checking the 6 index
+num is 9
+Added 9, now sum is 63
+Checking the 7 index
+num is 9
+Doubled num to 18 because 7 is odd
+Reducing 18 by 9
+Added 9, now sum is 72
+Checking the 8 index
+num is 9
+Added 9, now sum is 81
+Checking the 9 index
+num is 9
+Doubled num to 18 because 9 is odd
+Reducing 18 by 9
+Added 9, now sum is 90
+Checking the 10 index
+num is 9
+Added 9, now sum is 99
+Checking the 11 index
+num is 9
+Doubled num to 18 because 11 is odd
+Reducing 18 by 9
+Added 9, now sum is 108
+Checking the 12 index
+num is 9
+Added 9, now sum is 117
+Checking the 13 index
+num is 9
+Doubled num to 18 because 13 is odd
+Reducing 18 by 9
+Added 9, now sum is 126
+Checking the 14 index
+num is 9
+Added 9, now sum is 135
+Checking the 15 index
+num is 9
+Doubled num to 18 because 15 is odd
+Reducing 18 by 9
+Added 9, now sum is 144
+Checking the 16 index
+num is 9
+Added 9, now sum is 153
+Checking the 17 index
+num is 9
+Doubled num to 18 because 17 is odd
+Reducing 18 by 9
+Added 9, now sum is 162
+Checking the 18 index
+num is 9
+Added 9, now sum is 171
+Checking the 19 index
+num is 9
+Doubled num to 18 because 19 is odd
+Reducing 18 by 9
+Added 9, now sum is 180
+Checking the 20 index
+num is 9
+Added 9, now sum is 189
+Checking the 21 index
+num is 9
+Doubled num to 18 because 21 is odd
+Reducing 18 by 9
+Added 9, now sum is 198
+Checking the 22 index
+num is 9
+Added 9, now sum is 207
+Checking the 23 index
+num is 9
+Doubled num to 18 because 23 is odd
+Reducing 18 by 9
+Added 9, now sum is 216
+Checking the 24 index
+num is 9
+Added 9, now sum is 225
+Checking the 25 index
+num is 9
+Doubled num to 18 because 25 is odd
+Reducing 18 by 9
+Added 9, now sum is 234
+Checking the 26 index
+num is 9
+Added 9, now sum is 243
+Checking the 27 index
+num is 9
+Doubled num to 18 because 27 is odd
+Reducing 18 by 9
+Added 9, now sum is 252
+Checking the 28 index
+num is 9
+Added 9, now sum is 261
+Checking the 29 index
+num is 9
+Doubled num to 18 because 29 is odd
+Reducing 18 by 9
+Added 9, now sum is 270
+Checking the 30 index
+num is 9
+Added 9, now sum is 279
+Checking the 31 index
+num is 9
+Doubled num to 18 because 31 is odd
+Reducing 18 by 9
+Added 9, now sum is 288
+Checking the 32 index
+num is 9
+Added 9, now sum is 297
+Checking the 33 index
+num is 9
+Doubled num to 18 because 33 is odd
+Reducing 18 by 9
+Added 9, now sum is 306
+Checking the 34 index
+num is 9
+Added 9, now sum is 315
+Checking the 35 index
+num is 9
+Doubled num to 18 because 35 is odd
+Reducing 18 by 9
+Added 9, now sum is 324
+Checking the 36 index
+num is 9
+Added 9, now sum is 333
+Checking the 37 index
+num is 9
+Doubled num to 18 because 37 is odd
+Reducing 18 by 9
+Added 9, now sum is 342
+Checking the 38 index
+num is 9
+Added 9, now sum is 351
+Checking the 39 index
+num is 9
+Doubled num to 18 because 39 is odd
+Reducing 18 by 9
+Added 9, now sum is 360
+Total sum is 360
+So, valid
+inp is 109
+Length is 3
+Checking the 0 index
+num is 9
+Added 9, now sum is 9
+Checking the 1 index
+num is 0
+Doubled num to 0 because 1 is odd
+Added 0, now sum is 9
+Checking the 2 index
+num is 1
+Added 1, now sum is 10
+Total sum is 10
+So, valid
+inp is 055b444285
+Length is 10
+Non-numeric characters
+inp is :9
+Length is 2
+Non-numeric characters
+inp is 59%59
+Length is 5
+Non-numeric characters
